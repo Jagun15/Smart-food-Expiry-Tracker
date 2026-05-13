@@ -1,1 +1,1 @@
-# Smart-food-Expiry-Tracker
+Smart Ecommerce Project using Spring Boot
